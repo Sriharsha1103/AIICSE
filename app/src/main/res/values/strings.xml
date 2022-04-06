@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyAppCSEA</string>
+    <string name="first_screen_title">
+       A First Screen
+    </string>
+</resources>
