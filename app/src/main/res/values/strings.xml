@@ -3,4 +3,55 @@
     <string name="first_screen_title">
        A First Screen
     </string>
+    <string-array name="my_fruit_list">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item><item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item><item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item><item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pine Apple</item>
+        <item>Custard Apple</item>
+
+
+
+    </string-array>
 </resources>

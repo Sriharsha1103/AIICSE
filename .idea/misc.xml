@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Courses/Mobile Application Development/MyAppCSEA/app/src/main/res/layout/activity_first_screen.xml" value="0.22" />
         <entry key="..\:/Courses/Mobile Application Development/MyAppCSEA/app/src/main/res/layout/activity_second_screen.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_arecycler_view_demo.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/row_fruit.xml" value="0.18211752786220872" />
       </map>
     </option>
   </component>
